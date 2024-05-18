@@ -24,3 +24,5 @@ def load_random_word():
 
     return BasicWord(**game_words[0])
 
+# Привет
+
